@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://duncan91-ops.github.io/qr-code-component/))
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/card-component-using-css-and-flexbox-wDHNu7U3z)
+- Live Site URL: [QR Code Component](https://duncan91-ops.github.io/qr-code-component/))
 
 ## My process
 
